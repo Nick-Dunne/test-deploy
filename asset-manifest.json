@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nick-Dunne/test-deploy/static/css/main.02c49f1a.css",
+    "main.js": "/Nick-Dunne/test-deploy/static/js/main.7f1dc1ad.js",
+    "static/media/55.png": "/Nick-Dunne/test-deploy/static/media/55.c63dd78f09c3a1d74d56.png",
+    "static/media/M2T.png": "/Nick-Dunne/test-deploy/static/media/M2T.8f225001f936a9b4a46c.png",
+    "index.html": "/Nick-Dunne/test-deploy/index.html",
+    "main.02c49f1a.css.map": "/Nick-Dunne/test-deploy/static/css/main.02c49f1a.css.map",
+    "main.7f1dc1ad.js.map": "/Nick-Dunne/test-deploy/static/js/main.7f1dc1ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c49f1a.css",
+    "static/js/main.7f1dc1ad.js"
+  ]
+}
