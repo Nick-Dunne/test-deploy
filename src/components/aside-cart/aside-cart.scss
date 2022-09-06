@@ -1,0 +1,36 @@
+.aside-cart__item{
+    &:nth-child(2)
+    {
+        background-color: #bfefbb;
+    }
+    
+}
+.aside-cart__body-deleteIngr{
+    color: red;
+    font-size: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    text-shadow: .5px .5px 1px black;
+    li{
+        margin-left: 3px;
+    }
+}
+.aside-cart__body-extra{
+    color: rgb(255, 247, 0);
+    font-size: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    text-shadow: .5px .5px 1px black;
+    li{
+        margin-left: 3px;
+    }
+}
+
+.aside-cart__body-pizza-title{
+    span{
+        font-size: 10px;
+        margin-left: 5px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+}

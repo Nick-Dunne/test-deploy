@@ -1,0 +1,87 @@
+.modal {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.692);
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+
+  &__pizza {
+    position: relative;
+    width: 70%;
+    background-color: whitesmoke;
+    &-deleted{
+      color: red;
+      text-decoration: line-through;
+    }
+
+    &-wrapper{
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+    }
+    &-col-one{
+      width: 45%;
+      border-right: 1px solid gray;
+    }
+    &-descr{
+      margin-top: 10px;
+      display: flex;
+      flex-wrap:wrap;
+      justify-content: start;
+      font-size: 12px;
+      li{
+        span{
+          cursor: pointer;
+          margin-left: 3px;
+        }
+        button{
+          margin-left: 2px;
+        }
+      }
+    }
+    &-extra{
+      margin-top: 10px;
+      display: flex;
+      flex-wrap:wrap;
+      justify-content: start;
+      font-size: 12px;
+      li{
+        span{
+          cursor: pointer;
+          margin-left: 3px;
+        }
+        button{
+          margin-left: 2px;
+        }
+      }
+    }
+    &-col-sec{
+      width: 45%;
+    }
+    &-additionally-ingr{
+      text-transform: uppercase;
+      font-weight: bolder;
+      margin-top: 10px;
+      margin-bottom: 10px;
+     
+    }
+    .pizzablock__countOfPizza{
+      margin-left: 15px;
+      display: inline-block;
+    }
+    .pizzablock__addCart-btn{
+      margin-top: 15px;
+      margin-left: 15px;
+      display: inline-block;
+    }
+    &-price{
+      font-weight: bolder;
+    }
+  }
+}

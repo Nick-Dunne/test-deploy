@@ -1,0 +1,92 @@
+.order{
+    &__way-to-get{
+        margin-top: 20px;
+    }
+    &__self-service{
+        margin-left: 20px;
+    }
+    &__add-fieldset{
+        margin-top: 20px;
+    }
+    &__comments{
+        padding: 5px;
+        width: 500px;
+        min-height: 100px;
+        resize: none;
+    }
+    &__form-totalPrice{
+        text-align: center;
+        margin-top: 20px;
+    }
+    &__submit-btn{
+        display: block;
+        margin: 20px auto;
+    }
+}
+.way-to-get--active{
+    background-color: black;
+    color: white;
+}
+.delivery{
+    margin-top: 20px;
+    &__contact-fieldset{
+        margin-top: 15px;
+    }
+    &__address-fieldset{
+        margin-top: 20px;
+    }
+    &__city{
+        display: inline-block;
+        border-bottom: .5px dotted gray;
+    }
+    &__data-fieldset{
+        margin-top: 20px;
+    }
+    &__data-choose-wrapper{
+        display: flex;
+        margin-top: 15px;
+    }
+    &__pay-fieldset{
+        margin-top: 20px;
+    }
+    .react-datepicker-wrapper{
+        display: inline-block;
+        width: auto;
+        &:not(:first-child){
+            margin-left: 20px;
+        }
+        input{
+            padding: 5px;
+            border-radius: 10px;
+            text-align: center;
+            cursor: pointer;
+        }
+    }
+
+}
+.clarify{
+    display: inline-block;
+    margin-top: 20px;
+    cursor: pointer;
+    border-bottom: .5px dotted gray;
+}
+.custom-radio{
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: top;
+    width: 16px;
+    height: 16px;
+    background-color: azure;
+    border: 1px solid gray;
+    border-radius: 50%;
+   
+}
+.onTheData{
+    margin-left: 20px;
+}
+.checked{
+    background-color: rgb(29, 29, 29); 
+}
+.asFast, .onTheData{
+    cursor: pointer;
+}
