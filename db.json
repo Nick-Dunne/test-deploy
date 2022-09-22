@@ -73,7 +73,7 @@
 			"price": 150,
 			"descr": [
 				"75", "8", "81", "24","21","2","25","433","48"],
-			"category": ["hit"],
+			"category": ["hit", "hot"],
 			"calories": 1500,
 			"feature": [],
 			"satiety": "1-2"
