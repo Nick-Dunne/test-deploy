@@ -56,7 +56,7 @@
 
 	"pizzas": [{
 			"id": 1,
-			"img": "https://m2t.pizza/wp-content/uploads/2021/12/122.png",
+			"img": "https://m2t.pizza/img/ferd.png",
 			"name": "Ферджі",
 			"price": 165,
 			"descr": [
@@ -69,7 +69,7 @@
 		},
 		{
 			"id": 2,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/05/8-4-myasa-min.png",
+			"img": "https://m2t.pizza/img/4meat.png",
 			"name": "4 м'яса",
 			"price": 155,
 			"descr": [
@@ -83,7 +83,7 @@
 		},
 		{
 			"id": 3,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/04/13-4-syra-min.png",
+			"img": "https://m2t.pizza/img/4syr.png",
 			"name": "4 сири",
 			"price": 170,
 			"descr": [
@@ -96,7 +96,7 @@
 		},
 		{
 			"id": 4,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/04/1lakto-vegan800-min.png",
+			"img": "https://m2t.pizza/img/lakto-vegan.png",
 			"name": "Лакто-Веган",
 			"price": 135,
 			"descr": [
@@ -109,7 +109,7 @@
 		},
 		{
 			"id": 5,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/04/10-margarita-min.png",
+			"img": "https://m2t.pizza/img/margo.png",
 			"name": "Маргарита",
 			"price": 135,
 			"descr": ["75", "8", "81", "433", "83"],
@@ -121,7 +121,7 @@
 		},
 		{
 			"id": 6,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/3-gribnaya-min1-1.png",
+			"img": "https://m2t.pizza/img/grib.png",
 			"name": "Грибная",
 			"price": 145,
 			"descr": ["76", "8", "81", "21", "48", "83"], 
@@ -133,7 +133,7 @@
 		},
 		{
 			"id": 7,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/mak.png",
 			"name": "МакДональдз",
 			"price": 160,
 			"descr": [
@@ -146,7 +146,7 @@
 		},
 		{
 			"id": 8,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/4sez.png",
 			"name": "4 Сезони",
 			"price": 165,
 			"descr": [
@@ -159,7 +159,7 @@
 		},
 		{
 			"id": 9,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/bbq.png",
 			"name": "Барбекю",
 			"price": 165,
 			"descr": [
@@ -172,7 +172,7 @@
 		},
 		{
 			"id": 10,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/gavai.png",
 			"name": "Гавайська",
 			"price": 165,
 			"descr": [
@@ -185,7 +185,7 @@
 		},
 		{
 			"id": 11,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/tiamo.png",
 			"name": "Тіамо",
 			"price": 165,
 			"descr": [
@@ -198,7 +198,7 @@
 		},
 		{
 			"id": 12,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/californ.png",
 			"name": "Каліфорнія",
 			"price": 155,
 			"descr": [
@@ -211,7 +211,7 @@
 		},
 		{
 			"id": 13,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/bona.png",
 			"name": "Бона",
 			"price": 155,
 			"descr": [
@@ -224,7 +224,7 @@
 		},
 		{
 			"id": 14,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/hunter.png",
 			"name": "Хантер",
 			"price": 165,
 			"descr": [
@@ -237,7 +237,7 @@
 		},
 		{
 			"id": 15,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/astra.png",
 			"name": "Астра",
 			"price": 165,
 			"descr": [
@@ -250,7 +250,7 @@
 		},
 		{
 			"id": 16,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/peperoni.png",
 			"name": "Пепероні",
 			"price": 155,
 			"descr": [
@@ -263,7 +263,7 @@
 		},
 		{
 			"id": 17,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"img": "https://m2t.pizza/img/gret.png",
 			"name": "Грета",
 			"price": 165,
 			"descr": [
@@ -276,8 +276,8 @@
 		},
 		{
 			"id": 18,
-			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
-			"name": "Грета",
+			"img": "https://m2t.pizza/img/kapr.png",
+			"name": "Капрічоза",
 			"price": 145,
 			"descr": [
 				"75", "8", "81", "26", "48", "42"],
