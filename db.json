@@ -9,7 +9,7 @@
 	},
 	
 	"catOfIngred":{
-		"1": "Тесто",
+		"1": "Тісто",
 		"2": "М'ясо",
 		"3": "Риба",
 		"4": "Овочі",
@@ -17,39 +17,39 @@
 		"7": "Соуси"
 	},
 	"ingr":{
-		"1": ["Тесто для пиццы", 0],
+		"1": ["Тісто для піци", 0],
 		"2": ["Бекон", 12],
-		"21": ["Запеченая курочка", 12],
-		"22": ["Копченая курочка",  12],
-		"23": ["Пеперони", 32],
-		"24": ["Салями", 20],
-		"25": ["Охотничьи колбаски", 15],
-		"26": ["Ветчина", 14],
+		"21": ["Запечена курочка", 12],
+		"22": ["Копчена курочка",  12],
+		"23": ["Пепероні", 32],
+		"24": ["Салямі", 20],
+		"25": ["Мисливські ковбаски", 15],
+		"26": ["Шинка", 14],
 		"3": ["Лосось", 0],
-		"31": ["Тунец", 0],
-		"433": ["Томаты", 10],
-		"41": ["Кукуруза", 7],
+		"31": ["Тунець", 0],
+		"433": ["Томати", 10],
+		"41": ["Кукурудза", 7],
 		"42": ["Оливки", 7],
-		"43": ["Сладкий перец", 10],
-		"44": ["Халапеньо", 10],
-		"45": ["Маринованные грибы", 10],
-		"46": ["Маринованный лук", 4],
-		"47": ["Свежий лук", 3],
-		"48": ["Свежие грибы", 7],
-	   	"49": ["Маринованные огурцы", 8],
+		"43": ["Солодкий перець", 10],
+		"44": ["Джалапено", 10],
+		"45": ["Мариновані гриби", 10],
+		"46": ["Маринована цибуля", 4],
+		"47": ["Свіжа цибуля", 3],
+		"48": ["Свіжі гриби", 7],
+	   	"49": ["Мариновані огірки", 8],
 		"411":[ "Ананас", 20],
 		"422": ["Кунжут", 2],
 		"7": ["Соус 'Барбекю'", 8],
-		"71": ["Американская горчица", 6],
+		"71": ["Американська гірчиця", 6],
 		"72": ["Соус 'Бургер'", 5],
-		"73": ["Соус 'Сладкий Чили'", 8],
-		"74": ["Сливочно-чесночный соус", 5],
-		"75":[ "Красный соус", 8],
-		"76":[ "Белый соус", 8],
-		"8": ["Моцарелла", 40],
+		"73": ["Соус 'Солодкий Чилі'", 8],
+		"74": ["Соус 'Вершково-часниковий'", 5],
+		"75":[ "Червоний соус", 8],
+		"76":[ "Білий соус", 8],
+		"8": ["Моцарела", 40],
 		"81": ["Гауда", 40],
-		"82": ["Блю Чиз", 36],
-		"83": ["Старый Олендер", 34],
+		"82": ["Блю Чіз", 36],
+		"83": ["Пармезан", 34],
 		"84": ["Фета", 34]
 	},
 
@@ -57,91 +57,235 @@
 	"pizzas": [{
 			"id": 1,
 			"img": "https://m2t.pizza/wp-content/uploads/2021/12/122.png",
-			"name": "Ферджи",
-			"price": 160,
+			"name": "Ферджі",
+			"price": 165,
 			"descr": [
 				"75", "8", "81", "26","22","43","45","433", "73"],
-			"category": ["new", "hit"],
-			"calories": 5000,
-			"feature": [],
-			"satiety": "1",
-			"weight": "600 г"
+			"category": ["new"],
+			"calories": 1401,
+			"satiety": "1-2",
+			"rating": 10,
+			"weight": "650 г"
 		},
 		{
 			"id": 2,
 			"img": "https://m2t.pizza/wp-content/uploads/2020/05/8-4-myasa-min.png",
-			"name": "4 мяса",
-			"price": 150,
+			"name": "4 м'яса",
+			"price": 155,
 			"descr": [
 				"75", "8", "81", "24","21","2","25","433","48"],
-			"category": ["hit", "hot"],
-			"calories": 1500,
+			"category": ["hit"],
+			"calories": 1617,
 			"feature": [],
 			"satiety": "1-2",
-			"weight": "600 г"
+			"rating": 10,
+			"weight": "625 г"
 		},
 		{
 			"id": 3,
 			"img": "https://m2t.pizza/wp-content/uploads/2020/04/13-4-syra-min.png",
-			"name": "4 сыра",
+			"name": "4 сири",
 			"price": 170,
 			"descr": [
 				"76", "8", "81", "83", "82"],
-			"category": ["hit"],
-			"calories": 5670,
-			"feature": ["vegan"],
+			"category": ["vegan"],
+			"calories": 1712,
 			"satiety": "1-2",
+			"rating": 5,
 			"weight": "600 г"
 		},
 		{
 			"id": 4,
 			"img": "https://m2t.pizza/wp-content/uploads/2020/04/1lakto-vegan800-min.png",
 			"name": "Лакто-Веган",
-			"price": 130,
+			"price": 135,
 			"descr": [
 				"75", "8", "81", "42","43","433","48", "84"],
-			"category": [],
-			"calories": 5000,
-			"feature": ["vegan"],
-			"satiety": "1",
-			"weight": "600 г"
+			"category": ["vegan"],
+			"calories": 1221,
+			"satiety": "1-2",
+			"rating": 2,
+			"weight": "610 г"
 		},
 		{
 			"id": 5,
 			"img": "https://m2t.pizza/wp-content/uploads/2020/04/10-margarita-min.png",
 			"name": "Маргарита",
-			"price": 130,
+			"price": 135,
 			"descr": ["75", "8", "81", "433", "83"],
-			"category": [],
-			"calories": 200,
-			"feature": ["vegan"],
-			"satiety": "1",
-			"weight": "600 г"
+			"category": ["vegan"],
+			"calories": 1286,
+			"satiety": "1-2",
+			"rating": 4,
+			"weight": "530 г"
 		},
 		{
 			"id": 6,
 			"img": "https://m2t.pizza/wp-content/uploads/2020/10/3-gribnaya-min1-1.png",
 			"name": "Грибная",
-			"price": 140,
+			"price": 145,
 			"descr": ["76", "8", "81", "21", "48", "83"], 
 			"category": [],
-			"calories": 6000,
-			"feature": [],
-			"satiety": "1",
-			"weight": "600 г"
+			"calories": 1288,
+			"satiety": "1-2",
+			"rating": 2,
+			"weight": "585 г"
 		},
 		{
 			"id": 7,
 			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
-			"name": "МакДональдс",
+			"name": "МакДональдз",
 			"price": 160,
 			"descr": [
 				"75", "8", "81", "2", "433", "46","49","72", "71", "422"],
-			"category": ["hit"],
+			"category": [],
 			"calories": 5800,
-			"feature": [],
 			"satiety": "1-2",
+			"rating": 5,
+			"weight": "645 г"
+		},
+		{
+			"id": 8,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "4 Сезони",
+			"price": 165,
+			"descr": [
+				"75", "76", "8", "81", "433", "25", "49", "48", "23", "22", "41", "45", "21", "83"],
+			"category": ["hit"],
+			"calories": 1370,
+			"satiety": "1-2",
+			"rating": 10,
 			"weight": "600 г"
+		},
+		{
+			"id": 9,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Барбекю",
+			"price": 165,
+			"descr": [
+				"75", "8", "81", "2", "46", "43", "433", "7"],
+			"category": [],
+			"calories": 1892,
+			"satiety": "1-2",
+			"rating": 8,
+			"weight": "600 г"
+		},
+		{
+			"id": 10,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Гавайська",
+			"price": 165,
+			"descr": [
+				"75", "8", "81", "21", "433", "41", "411"],
+			"category": [],
+			"calories": 1251,
+			"satiety": "1-2",
+			"rating": 7,
+			"weight": "650 г"
+		},
+		{
+			"id": 11,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Тіамо",
+			"price": 165,
+			"descr": [
+				"76", "8", "81", "433", "49", "48", "2", "22", "422", "72"],
+			"category": ["hit"],
+			"calories": 1700,
+			"satiety": "1-2",
+			"rating": 10,
+			"weight": "650 г"
+		},
+		{
+			"id": 12,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Каліфорнія",
+			"price": 155,
+			"descr": [
+				"75", "8", "81", "41", "22", "45", "433"],
+			"category": ["hit"],
+			"calories": 1230,
+			"satiety": "1-2",
+			"rating": 10,
+			"weight": "630 г"
+		},
+		{
+			"id": 13,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Бона",
+			"price": 155,
+			"descr": [
+				"75", "8", "81", "22", "2", "46", "433", "84"],
+			"category": [],
+			"calories": 1583,
+			"satiety": "1-2",
+			"rating": 2,
+			"weight": "620 г"
+		},
+		{
+			"id": 14,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Хантер",
+			"price": 165,
+			"descr": [
+				"75", "8", "81", "433", "45", "48", "25"],
+			"category": [],
+			"calories": 1487,
+			"satiety": "1-2",
+			"rating": 6,
+			"weight": "645 г"
+		},
+		{
+			"id": 15,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Астра",
+			"price": 165,
+			"descr": [
+				"75", "8", "81", "433", "24", "25", "43", "44"],
+			"category": ["hot"],
+			"calories": 1530,
+			"satiety": "1-2",
+			"rating": 5,
+			"weight": "625 г"
+		},
+		{
+			"id": 16,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Пепероні",
+			"price": 155,
+			"descr": [
+				"75", "8", "81", "23"],
+			"category": [],
+			"calories": 1597,
+			"satiety": "1-2",
+			"rating": 5,
+			"weight": "540 г"
+		},
+		{
+			"id": 17,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Грета",
+			"price": 165,
+			"descr": [
+				"76", "8", "81", "433", "48", "26", "43", "72"],
+			"category": ["hit"],
+			"calories": 1538,
+			"satiety": "1-2",
+			"rating": 5,
+			"weight": "650 г"
+		},
+		{
+			"id": 18,
+			"img": "https://m2t.pizza/wp-content/uploads/2020/10/mak-donalds1-min.png",
+			"name": "Грета",
+			"price": 145,
+			"descr": [
+				"75", "8", "81", "26", "48", "42"],
+			"category": [],
+			"calories": 1348,
+			"satiety": "1-2",
+			"rating": 1,
+			"weight": "580 г"
 		}
 	]
 
