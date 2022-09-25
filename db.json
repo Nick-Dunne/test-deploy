@@ -61,7 +61,7 @@
 			"category": ["new"],
 			"calories": 1401,
 			"satiety": "1-2",
-			"rating": 10,
+			"rating": 6,
 			"weight": "650 г"
 		},
 		{
@@ -88,7 +88,7 @@
 			"category": ["vegan"],
 			"calories": 1712,
 			"satiety": "1-2",
-			"rating": 5,
+			"rating": 4,
 			"weight": "600 г"
 		},
 		{
@@ -136,9 +136,9 @@
 			"descr": [
 				"75", "81", "2", "433", "46","49","72", "71", "422"],
 			"category": [],
-			"calories": 5800,
+			"calories": 1790,
 			"satiety": "1-2",
-			"rating": 5,
+			"rating": 6,
 			"weight": "645 г"
 		},
 		{
@@ -177,7 +177,7 @@
 			"category": [],
 			"calories": 1251,
 			"satiety": "1-2",
-			"rating": 7,
+			"rating": 3,
 			"weight": "650 г"
 		},
 		{
@@ -255,7 +255,7 @@
 			"category": [],
 			"calories": 1597,
 			"satiety": "1-2",
-			"rating": 5,
+			"rating": 3,
 			"weight": "540 г"
 		},
 		{
@@ -268,7 +268,7 @@
 			"category": ["hit"],
 			"calories": 1538,
 			"satiety": "1-2",
-			"rating": 5,
+			"rating": 9,
 			"weight": "650 г"
 		},
 		{
