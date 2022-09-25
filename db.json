@@ -82,7 +82,7 @@
 			"id": 3,
 			"img": "https://m2t.pizza/img/4syr.png",
 			"name": "4 сири",
-			"price": 170,
+			"price": 175,
 			"descr": [
 				"76", "81", "83", "82"],
 			"category": ["vegan"],
@@ -132,7 +132,7 @@
 			"id": 7,
 			"img": "https://m2t.pizza/img/mak.png",
 			"name": "МакДональдз",
-			"price": 160,
+			"price": 165,
 			"descr": [
 				"75", "81", "2", "433", "46","49","72", "71", "422"],
 			"category": [],
