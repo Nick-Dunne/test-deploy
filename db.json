@@ -284,211 +284,126 @@
       "weight": "650 г"
     }
   ],
-  "polopizzas": [
+
+  "polo-pizzas": [
     {
       "id": 1,
       "img": "https://m2t.pizza/img/polo/ferd-polo.png",
       "name": "поло-Ферджі",
       "price": 90,
-      "descr": ["75q", "81q", "26q", "22q", "43q", "45q", "433q", "73q"],
-      "category": ["new"],
-      "calories": 1401,
-      "satiety": "1-2",
-      "rating": 6,
-      "weight": "650 г"
+      "descr": ["75q", "81q", "26q", "22q", "43q", "45q", "433q", "73q"]
     },
     {
       "id": 2,
       "img": "https://m2t.pizza/img/polo/4meat-polo.png",
       "name": "поло-4 М'яса",
       "price": 85,
-      "descr": ["75q", "81q", "24q", "21q", "2q", "25q", "433q", "48q"],
-      "category": ["hit"],
-      "calories": 1617,
-      "feature": [],
-      "satiety": "1-2",
-      "rating": 10,
-      "weight": "625 г"
+      "descr": ["75q", "81q", "24q", "21q", "2q", "25q", "433q", "48q"]
     },
     {
       "id": 3,
       "img": "https://m2t.pizza/img/polo/4syr-polo.png",
       "name": "поло-4 Сири",
       "price": 97.5,
-      "descr": ["76q", "81q", "83q", "82q"],
-      "category": ["vegan"],
-      "calories": 1712,
-      "satiety": "1-2",
-      "rating": 4,
-      "weight": "600 г"
+      "descr": ["76q", "81q", "83q", "82q"]
     },
     {
       "id": 4,
       "img": "https://m2t.pizza/img/polo/lakto-vegan-polo.png",
       "name": "поло-Лакто-Веган",
       "price": 75,
-      "descr": ["75q", "81q", "42q", "43q", "433q", "48q", "84q"],
-      "category": ["vegan"],
-      "calories": 1221,
-      "satiety": "1-2",
-      "rating": 2,
-      "weight": "610 г"
+      "descr": ["75q", "81q", "42q", "43q", "433q", "48q", "84q"]
     },
     {
       "id": 5,
       "img": "https://m2t.pizza/img/polo/margo-polo.png",
       "name": "поло-Маргарита",
       "price": 75,
-      "descr": ["75q", "81q", "433q", "83q"],
-      "category": ["vegan"],
-      "calories": 1286,
-      "satiety": "1-2",
-      "rating": 4,
-      "weight": "530 г"
+      "descr": ["75q", "81q", "433q", "83q"]
     },
     {
       "id": 6,
       "img": "https://m2t.pizza/img/polo/grib-polo.png",
       "name": "поло-Грибна",
       "price": 82.5,
-      "descr": ["76q", "81q", "21q", "48q", "83q"],
-      "category": [],
-      "calories": 1288,
-      "satiety": "1-2",
-      "rating": 2,
-      "weight": "585 г"
+      "descr": ["76q", "81q", "21q", "48q", "83q"]
     },
     {
       "id": 7,
       "img": "https://m2t.pizza/img/polo/mak-polo.png",
       "name": "поло-МакДональдз",
       "price": 90,
-      "descr": ["75q", "81q", "2q", "433q", "46q", "49q", "72q", "71q", "422q"],
-      "category": [],
-      "calories": 1790,
-      "satiety": "1-2",
-      "rating": 6,
-      "weight": "645 г"
+      "descr": ["75q", "81q", "2q", "433q", "46q", "49q", "72q", "71q", "422q"]
     },
     {
       "id": 9,
       "img": "https://m2t.pizza/img/polo/bbq-polo.png",
       "name": "поло-Барбекю",
       "price": 90,
-      "descr": ["75q", "81q", "2q", "46q", "43q", "433q", "7q"],
-      "category": [],
-      "calories": 1892,
-      "satiety": "1-2",
-      "rating": 8,
-      "weight": "600 г"
+      "descr": ["75q", "81q", "2q", "46q", "43q", "433q", "7q"]
     },
     {
       "id": 10,
       "img": "https://m2t.pizza/img/polo/gavai-polo.png",
       "name": "поло-Гавайська",
       "price": 90,
-      "descr": ["75q", "81q", "21q", "433q", "41q", "411q"],
-      "category": [],
-      "calories": 1251,
-      "satiety": "1-2",
-      "rating": 3,
-      "weight": "650 г"
+      "descr": ["75q", "81q", "21q", "433q", "41q", "411q"]
     },
     {
       "id": 11,
       "img": "https://m2t.pizza/img/polo/tiamo-polo.png",
       "name": "поло-Тіамо",
       "price": 90,
-      "descr": ["76q", "81q", "433q", "49q", "48q", "2q", "22q", "422q", "72q"],
-      "category": ["hit"],
-      "calories": 1700,
-      "satiety": "1-2",
-      "rating": 10,
-      "weight": "650 г"
+      "descr": ["76q", "81q", "433q", "49q", "48q", "2q", "22q", "422q", "72q"]
     },
     {
       "id": 12,
       "img": "https://m2t.pizza/img/polo/californ-polo.png",
       "name": "поло-Каліфорнія",
       "price": 85,
-      "descr": ["75q", "81q", "41q", "22q", "45q", "433q"],
-      "category": ["hit"],
-      "calories": 1230,
-      "satiety": "1-2",
-      "rating": 10,
-      "weight": "630 г"
+      "descr": ["75q", "81q", "41q", "22q", "45q", "433q"]
     },
     {
       "id": 13,
       "img": "https://m2t.pizza/img/polo/luchia-polo.webp",
       "name": "поло-Лючія",
       "price": 92.5,
-      "descr": ["76q", "81q", "26q", "2q", "433q", "83q", "74q", "423q"],
-      "category": ["new"],
-      "calories": 1827,
-      "satiety": "1-2",
-      "rating": 7,
-      "weight": "600 г"
+      "descr": ["76q", "81q", "26q", "2q", "433q", "83q", "74q", "423q"]
     },
     {
       "id": 14,
       "img": "https://m2t.pizza/img/polo/hunter-polo.png",
       "name": "поло-Хантер",
       "price": 90,
-      "descr": ["75q", "81q", "433q", "48q", "49q", "25q"],
-      "category": [],
-      "calories": 1487,
-      "satiety": "1-2",
-      "rating": 6,
-      "weight": "645 г"
+      "descr": ["75q", "81q", "433q", "48q", "49q", "25q"]
     },
     {
       "id": 15,
       "img": "https://m2t.pizza/img/polo/astra-polo.png",
       "name": "поло-Астра",
       "price": 90,
-      "descr": ["75q", "81q", "433q", "24q", "25q", "43q", "44q"],
-      "category": ["hot"],
-      "calories": 1530,
-      "satiety": "1-2",
-      "rating": 5,
-      "weight": "625 г"
+      "descr": ["75q", "81q", "433q", "24q", "25q", "43q", "44q"]
     },
     {
       "id": 16,
       "img": "https://m2t.pizza/img/polo/peperoni-polo.png",
       "name": "поло-Пепероні",
       "price": 85,
-      "descr": ["75q", "81q", "23q"],
-      "category": [],
-      "calories": 1597,
-      "satiety": "1-2",
-      "rating": 3,
-      "weight": "540 г"
+      "descr": ["75q", "81q", "23q"]
     },
     {
       "id": 17,
       "img": "https://m2t.pizza/img/polo/fargo-polo.webp",
       "name": "поло-Фарго",
       "price": 92.5,
-      "descr": ["75q", "81q", "26q", "22q", "49q", "48q", "84q", "78q"],
-      "category": ["new"],
-      "calories": 1538,
-      "satiety": "1-2",
-      "rating": 7,
-      "weight": "650 г"
+      "descr": ["75q", "81q", "26q", "22q", "49q", "48q", "84q", "78q"]
     },
     {
       "id": 18,
       "img": "https://m2t.pizza/img/polo/kerri-polo.webp",
       "name": "поло-Керрі",
       "price": 92.5,
-      "descr": ["75q", "81q", "21q", "24q", "433q", "43q", "48q", "77q"],
-      "category": ["new"],
-      "calories": 1448,
-      "satiety": "1-2",
-      "rating": 7,
-      "weight": "650 г"
+      "descr": ["75q", "81q", "21q", "24q", "433q", "43q", "48q", "77q"]
     }
   ]
 }
