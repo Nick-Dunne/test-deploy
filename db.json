@@ -284,8 +284,7 @@
       "weight": "650 г"
     }
   ],
-
-  "polo-pizzas": [
+  "polopizzas": [
     {
       "id": 1,
       "img": "https://m2t.pizza/img/polo/ferd-polo.png",
